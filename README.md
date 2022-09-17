@@ -1,3 +1,7 @@
 My simple portfolio site
-<B> using Html and CSS</B>
-gingersketchy.netlify.app
+<b> using Html and CSS </b>
+VIEW THE LIVE SITE BY CLICKING LINK BELOW
+
+
+https://gingerbreadsketchy.github.io/gingersketchy.gq
+
